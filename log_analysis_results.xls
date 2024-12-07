@@ -1,0 +1,9 @@
+Requests per IP
+IP Address,Request Count
+
+Most Accessed Endpoint
+Endpoint,Access Count
+None,0
+
+Suspicious Activity
+IP Address,Failed Login Count
